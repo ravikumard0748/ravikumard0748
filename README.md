@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikumar D</h1>
-<h3 align="center">A Dedicated AI & ML Engineer | Competitive Progrmmer | Tech Enthusiast</h3>
+<h3 align="center">💡 Dedicated AI & ML Engineer | Competitive Programmer | Tech Enthusiast</h3>
 
 ---
 
@@ -23,7 +23,9 @@
   <a href="https://www.codechef.com/users/ravikumard">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-
+  <a href="https://kaggle.com/ravikumar d">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
 ---
@@ -63,22 +65,39 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumard0748&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumard0748&show_icons=true&layout=compact&theme=radical" alt="langs" />
-</p>
+## 🔎 About Me  
+I’m **Ravikumar D**, a **dedicated** AI/ML engineer who builds end-to-end, production-ready solutions — from model development to web deployment. I blend machine learning, deep learning, and software engineering to solve practical problems in healthcare, agriculture, and business analytics. I enjoy building RAG systems, full-stack web apps, and model-driven automation.
+
+- 🔭 Currently working on: **Text Generation Transformers** — [repo](https://github.com/ravikumard0748/TextGeneration_using_Transformers.git)  
+- 🌱 Learning & exploring: **TensorFlow, Keras, LangChain, RAG systems, Explainable AI**  
+- 👨‍💻 Portfolio: [ravikumard.netlify.app](https://ravikumard.netlify.app/)  
+- 💬 Ask me about: **Machine Learning, Neural Networks, Model deployment, Full-stack integration**  
+- 📫 Email: **ravikumar.d2023aiml@sece.ac.in**  
+- 📂 Resume & certificates: [Google Drive](https://drive.google.com/drive/folders/147DF9v8DjIOht0mMtFJtyuwq4UsgyOEK?usp=drive_link)  
 
 ---
 
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikumard0748&theme=radical" alt="streak" />
-</p>
+## 🌟 Selected Projects  
+> *(click project names to open repository/portfolio where available)*  
+
+- 🚑 [**Heart Attack Risk Prediction**](#) — Flask + Scikit-learn model that predicts risk and sends alerts (SMS/phone).  
+- 🌱 [**Crop Recommendation System**](#) — Flask app with RandomForest model recommending best crops.  
+- 🏥 [**DisSol Hospital Management System**](#) — React + Node + Express + MongoDB full-stack hospital operations web app.  
+- ✍️ [**Text Generation Transformers**](https://github.com/ravikumard0748/TextGeneration_using_Transformers) — Experiments in transformer-based text generation & fine-tuning.  
+- 📦 [**Courier & Store Management (Java)**](#) — Java projects demonstrating JDBC, multithreading, console & file I/O.  
 
 ---
 
-### 🚀 Competitive Programming Stats  
+### 📊 GitHub & CP Dashboards  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ravikumard?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikumard0748&show_icons=true&theme=radical" height="180px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumard0748&show_icons=true&layout=compact&theme=radical" height="180px" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikumard0748&theme=radical" height="180px" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ravikumard?theme=dark&font=Montserrat&ext=contest" height="300px" alt="leetcode stats" />
 </p>
